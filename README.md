@@ -1,6 +1,13 @@
 ## __Instropector__ 
 A python package for getting information about a python package such documentation, attributes, methods, method signatures etc.
 
+## ___Prerequisites___
+
+* `Git` [Guide to Git](https://git-scm.com/doc) [Installing Git](https://gist.github.com/derhuerst/1b15ff4652a867391f03)
+* `Python 3`
+* `Pip` [Guide to installing pip](https://github.com/BurntSushi/nfldb/wiki/Python-&-pip-Windows-installation)
+
+
 ## __Cloning and creating wheel file__
 * Clone this [repository's](https://github.com/ja-odur/introspector/) develop branch
 using this command **`git clone -b develop https://github.com/ja-odur/introspector.git`**
@@ -13,8 +20,8 @@ using this command **`git clone -b develop https://github.com/ja-odur/introspect
 
 
 ## __Usage__
-* **`from instrospector import dump`**
-* Call the function **`dump`** with the package or module that you want to instrospect e.g
+* **`from introspector import dump`**
+* Call the function **`dump`** with the package or module that you want to introspect e.g
 - **`dump(list)`** 
 
 ## __Author__
