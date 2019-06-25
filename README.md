@@ -1,4 +1,4 @@
-## __Instropector__ 
+## __Introspector__ 
 A python package for getting information about a python package such documentation, attributes, methods, method signatures etc.
 
 ## ___Prerequisites___
